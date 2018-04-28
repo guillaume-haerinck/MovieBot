@@ -26,7 +26,7 @@ python startup.py
 
 The bot will then awnser on twitter to anyone using #TheRealBot, and log it locally into data.txt
 
-## Autheurs
+## Authors
 
 * **Julien Viala**
 * **Guillaume Haerinck**
